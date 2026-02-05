@@ -13,7 +13,7 @@
 - [Key Features](#-key-features)
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started) 
+- [Getting Started](#-getting-started)  
 - [Future Improvements](#-future-improvements)
 - [Contributing](#-contributing)
 - [License](#-license)
