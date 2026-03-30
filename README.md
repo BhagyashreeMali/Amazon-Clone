@@ -7,7 +7,7 @@
 
 > A pixel-perfect, static replica of the Amazon desktop homepage, demonstrating proficiency in modern HTML5 and CSS3 layout techniques.
 
-## 📋 Table of Contents
+## 📋 Table of Contents 
 
 - [Overview](#-overview)
 - [Key Features](#-key-features)
